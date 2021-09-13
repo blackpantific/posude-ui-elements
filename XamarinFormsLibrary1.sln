@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsLibrary1", "XamarinFormsLibrary1\XamarinFormsLibrary1.csproj", "{F4203AF9-7D41-465A-AF08-73B282296AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{97752286-EC25-4953-8AAE-028C9CC156DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{252475D8-363E-457D-AB47-45B0D4DC8E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4203AF9-7D41-465A-AF08-73B282296AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4203AF9-7D41-465A-AF08-73B282296AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4203AF9-7D41-465A-AF08-73B282296AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4203AF9-7D41-465A-AF08-73B282296AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97752286-EC25-4953-8AAE-028C9CC156DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97752286-EC25-4953-8AAE-028C9CC156DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97752286-EC25-4953-8AAE-028C9CC156DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97752286-EC25-4953-8AAE-028C9CC156DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252475D8-363E-457D-AB47-45B0D4DC8E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252475D8-363E-457D-AB47-45B0D4DC8E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252475D8-363E-457D-AB47-45B0D4DC8E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252475D8-363E-457D-AB47-45B0D4DC8E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

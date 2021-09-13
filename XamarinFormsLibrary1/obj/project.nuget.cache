@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sx/XalGut79/RkLh0pi/CoLRWr1pGUw8wRJ1a/feIEGbF1uVF2AXRdtt6Fnu6V18QeT/8IHWHKDoe3ojjZCMXA==",
+  "success": true,
+  "projectFilePath": "/Users/blackpantific/RiderProjects/XamarinFormsLibrary1/XamarinFormsLibrary1/XamarinFormsLibrary1.csproj",
+  "expectedPackageFiles": [
+    "/Users/blackpantific/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

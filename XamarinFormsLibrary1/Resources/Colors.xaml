@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormsLibrary1.Resources.Colors">
+
+    <Color x:Key="MainGreenColor">#1D865B</Color>
+    <Color x:Key="DarkGreenTextColor">#182922</Color>
+    <Color x:Key="DarkGreenControlColor">#223930</Color>
+    <Color x:Key="Gray100Color">#F8F8F8</Color>
+    <Color x:Key="Gray200Color">#EBEAEA</Color>
+    <Color x:Key="Gray300Color">#DDDDDD</Color>
+    <Color x:Key="Gray400Color">#888888</Color>
+    <Color x:Key="Gray500Color">#777777</Color>
+    <Color x:Key="Gray600Color">#666666</Color>
+    <Color x:Key="Gray700Color">#555555</Color>
+    <Color x:Key="Gray800Color">#444444</Color>
+    <Color x:Key="Gray900Color">#333333</Color>
+    <Color x:Key="GrayDeviderColor">#979797</Color>
+    <Color x:Key="RedColor">#BF0711</Color>
+    <Color x:Key="WhiteColor">#FFFFFF</Color>
+    
+</ResourceDictionary>
